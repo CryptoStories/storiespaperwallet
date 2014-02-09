@@ -3,16 +3,6 @@ If you're on already at https://github.com/cryptostories/storiespaperwallet
 Then just look for the button that says "Download ZIP". Look to your right -->
 *******************************************************************************
 
-*** storiespaperwallet ***
-
-This project is a fork of bitaddress.org, the original trustworthy
-JavaScript powered offline bitcoin address generator. This generator is ONLY 
-for generating secure paper wallets, either using Javascript-based cryptography
-or by supplying keys you have generated using your own means (vanitygen, dice.)
-
-Use bitaddress.org if you need BIP38, brain wallets, or bulk addresses.
-
-
 *** HOW TO USE THIS GENERATOR ***
 
 1) Extract the ZIP file
